@@ -2,7 +2,7 @@
 
 # Hello, I'm Ziya Asici 👋
 
-### Cloud & DevOps Engineer | 2X AWS Certified
+### Cloud & DevOps Engineer | AWS Certified
 
 [![LinkedIn Badge](https://img.shields.io/badge/-ziyaasici-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ziya-asici/)](https://linkedin.com/in/ziya-asici/)
 [![GitHub Badge](https://img.shields.io/github/followers/ziyaasici?label=follow&style=social)](https://github.com/ziyaasici)
@@ -23,11 +23,31 @@
 
 ## 🔧 Tools & Technologies
 
-- **Programming Languages:** Python 🐍, Java ☕, Bash 🔨
-- **DevOps & CI/CD:** Docker 🐳, Kubernetes ☸️, Jenkins 🧰, Terraform 🌍, Ansible 🔧
-- **Cloud Platforms:** AWS ☁️, Azure 🌌
-- **Databases:** DynamoDB 🗃️, MySQL 🛢️, MongoDB 🍃
-- **Monitoring & Logging:** Prometheus 📊, Grafana 📈, ELK 🌲
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+
+### DevOps & CI/CD
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white)
+
+### Databases
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=Amazon-DynamoDB&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/-ELK-005571?style=flat&logo=Elastic-Stack&logoColor=white)
 
 ---
 
@@ -60,5 +80,6 @@
 
 - **Email:** ziya.asici@yahoo.com
 - **LinkedIn:** [linkedin.com/in/ziya-asici/](https://linkedin.com/in/ziya-asici/)
+- **GitHub:** [github.com/ziyaasici](https://github.com/ziyaasici)
 
 </div>
