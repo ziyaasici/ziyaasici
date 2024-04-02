@@ -64,8 +64,8 @@
 
 - 🎓 **George Brown College**, Certificate in English for Academic Purpose (2018)
 - 🎓 **Ankara University**, Diploma in Computer Programming (2011-2013)
-- ![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20-%20Associate-orange?style=flat&logo=Amazon-AWS&logoColor=white)
-- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-yellow?style=flat&logo=Amazon-AWS&logoColor=white)
+- 🏅 **AWS Certified Solutions Architect - Associate** (2024-03)
+- 🏅 **AWS Certified Cloud Practitioner - Associate** (2024-04)
 - 🏅 **HashiCorp Certified: Terraform Associate** (2024-04)
 
 ---
