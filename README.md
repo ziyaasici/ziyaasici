@@ -2,7 +2,7 @@
 
 # Hello, I'm Ziya Asici 👋
 
-### Cloud & DevOps Engineer | AWS Certified
+### Cloud & DevOps Engineer | 2X AWS Certified
 
 [![LinkedIn Badge](https://img.shields.io/badge/-ziyaasici-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ziya-asici/)](https://linkedin.com/in/ziya-asici/)
 [![GitHub Badge](https://img.shields.io/github/followers/ziyaasici?label=follow&style=social)](https://github.com/ziyaasici)
@@ -80,6 +80,6 @@
 
 - **Email:** ziya.asici@yahoo.com
 - **LinkedIn:** [linkedin.com/in/ziya-asici/](https://linkedin.com/in/ziya-asici/)
-- **GitHub:** [github.com/ziyaasici](https://github.com/ziyaasici)
 
+  
 </div>
