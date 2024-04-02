@@ -2,7 +2,7 @@
 
 # Hello, I'm Ziya Asici 👋
 
-### Cloud & DevOps Engineer | AWS Certified
+### Cloud & DevOps Engineer | 2X AWS Certified
 
 [![LinkedIn Badge](https://img.shields.io/badge/-ziyaasici-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ziya-asici/)](https://linkedin.com/in/ziya-asici/)
 [![GitHub Badge](https://img.shields.io/github/followers/ziyaasici?label=follow&style=social)](https://github.com/ziyaasici)
@@ -19,7 +19,15 @@
 
 💡 Passionate about continuous learning and implementing cutting-edge technologies.
 
-🛠️ **Tech Stack:** `AWS`, `Azure`, `Docker`, `Kubernetes`, `Terraform`, `Ansible`, `Python`, `Java`, `Bash`.
+---
+
+## 🔧 Tools & Technologies
+
+- **Programming Languages:** Python 🐍, Java ☕, Bash 🔨
+- **DevOps & CI/CD:** Docker 🐳, Kubernetes ☸️, Jenkins 🧰, Terraform 🌍, Ansible 🔧
+- **Cloud Platforms:** AWS ☁️, Azure 🌌
+- **Databases:** DynamoDB 🗃️, MySQL 🛢️, MongoDB 🍃
+- **Monitoring & Logging:** Prometheus 📊, Grafana 📈, ELK 🌲
 
 ---
 
@@ -44,7 +52,7 @@
 
 ## 📈 Projects
 
-Coming soon...
+🔍 **Check out my repositories** to see the projects I've been working on and my contributions to open source. I'm always experimenting with new technologies and improving my existing projects.
 
 ---
 
@@ -52,6 +60,5 @@ Coming soon...
 
 - **Email:** ziya.asici@yahoo.com
 - **LinkedIn:** [linkedin.com/in/ziya-asici/](https://linkedin.com/in/ziya-asici/)
-- **GitHub:** [github.com/ziyaasici](https://github.com/ziyaasici)
 
 </div>
